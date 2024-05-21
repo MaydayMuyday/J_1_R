@@ -16,7 +16,6 @@ package lesson1;
 значениями, которыми захотите. Если a больше или равно b, то необходимо вывести в консоль сообщение “a >= b”, в
 противном случае “a < b”;
   6. Методы из пунктов 2-5 вызовите из метода main() и посмотрите корректно ли они работают*/
-
 public class HomeWorkApp {
     public static void main(String[] args) {
         printThreeWords();
